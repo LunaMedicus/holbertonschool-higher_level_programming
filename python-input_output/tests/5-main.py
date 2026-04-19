@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-to_json_string = __import__('5-to_json_string').to_json_string
+to_json_string = __import__('3-to_json_string').to_json_string
 
 my_list = [1, 2, 3]
 s_my_list = to_json_string(my_list)
